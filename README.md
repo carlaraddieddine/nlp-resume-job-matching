@@ -1,4 +1,5 @@
-NLP-Based Resume–Job Matching Classification
+* NLP-Based Resume–Job Matching Classification
+
 An exploratory natural language processing (NLP) project that classifies resume–job pairs as Match or No Match using text from candidate resumes and job requirements. The project compares TF-IDF-based machine learning with an LSTM neural network.
 Scope: This is an academic experiment on a dataset-derived matching label, not a validated hiring recommendation tool. Automated predictions should not be used to make employment decisions without rigorous validation, fairness assessment, and human oversight.
 
